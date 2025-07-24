@@ -30,9 +30,6 @@ A React-based app that helps you split expenses fairly between you and a friend.
 ---
 
 ## 🗂️ File Structure
-pgsql
-Copy
-Edit
 Bill-Spliting-Webapp/
 ├── public/
 │   └── index.html
