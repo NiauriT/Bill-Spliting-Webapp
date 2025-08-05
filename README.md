@@ -1,3 +1,8 @@
+## UPDATE!!! ♻ Upgrade Incoming!!! 💤
+I am planning to upgrade my Bill Splitting project by using React Hooks and Redux.  
+
+--- 
+
 # 💸 Bill Splitting Web App 👥
 
 A React-based app that helps you split expenses fairly between you and a friend. Just enter the bill amount, how much each person paid, and let the app calculate who owes what. Clean design and perfect for quick splits at restaurants, events, or trips!
