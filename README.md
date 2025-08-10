@@ -1,6 +1,6 @@
 # 🚀 Update! 
 
-–--
+---
 
 Bill Splitting Webapp Upgraded This project has been upgraded to include React Hooks and Redux Toolkit for better state management and a modern React architecture.
 
