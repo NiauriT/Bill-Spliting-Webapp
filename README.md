@@ -11,6 +11,7 @@ Used useDispatch to update the store from components.
 Refactored local state into Redux where needed.
 
 Made the application fully responsive for all devices. ✅
+
 --- 
 
 # 💸 Bill Splitting Web App 👥
