@@ -1,7 +1,16 @@
-## UPDATE!!! ♻ Upgrade Incoming!!! 💤
-I am planning to upgrade my Bill Splitting project by using React Hooks and Redux.  
-Make it responsive!
+🚀 Update! – Bill Splitting Webapp Upgraded This project has been upgraded to include React Hooks and Redux Toolkit for better state management and a modern React architecture.
 
+🔧 Changes Made Installed Redux Toolkit and set up a Redux store for global state.
+
+Created a slice with a reducer to manage bill data.
+
+Used useSelector to read data from the Redux store.
+
+Used useDispatch to update the store from components.
+
+Refactored local state into Redux where needed.
+
+Made the application fully responsive for all devices. ✅
 --- 
 
 # 💸 Bill Splitting Web App 👥
