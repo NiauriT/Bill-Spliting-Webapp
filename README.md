@@ -1,4 +1,7 @@
+
 # 🚀 Update! 
+
+I will make use of React Router with this project and handle all pages, i want also to use Typescript.
 
 ---
 
