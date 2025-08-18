@@ -1,23 +1,19 @@
 
-# 🚀 Update! 
+# 🚀 Bill Splitting Webapp (Upgraded)
 
-I will make use of React Router with this project and handle all pages, i want also to use Typescript.
+This project is a modern React + TypeScript web application for splitting bills among friends. It now uses React Hooks and Redux Toolkit for robust state management and a cleaner architecture.
 
----
+🔧 Key Features & Updates
 
-Bill Splitting Webapp Upgraded This project has been upgraded to include React Hooks and Redux Toolkit for better state management and a modern React architecture.
+Global State Management: Redux Toolkit store setup for managing friends and balances.
 
-🔧 Changes Made Installed Redux Toolkit and set up a Redux store for global state.
+State Handling: useSelector and useDispatch to interact with the store.
 
-Created a slice with a reducer to manage bill data.
+Modern Architecture: Refactored local state into Redux where appropriate.
 
-Used useSelector to read data from the Redux store.
+Responsive Design: Works seamlessly on all devices.
 
-Used useDispatch to update the store from components.
-
-Refactored local state into Redux where needed.
-
-Made the application fully responsive for all devices. ✅
+Type Safety: Fully typed with TypeScript.
 
 --- 
 
